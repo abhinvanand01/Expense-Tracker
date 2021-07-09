@@ -1,6 +1,6 @@
-# expensetracker
+# Expense Tracker Application 
 
-A new Flutter application.
+A new Flutter application , built during an hackathon.
 
 ## Getting Started
 
